@@ -1,5 +1,5 @@
 {
-  "name": "@wonderlandlabs/hexagony",
+  "name": "@wonderlandlabs/hexagone",
   "version": "1.0.0",
   "description": "A hexagonal point system",
   "main": "lib/index.js",
