@@ -23,7 +23,7 @@
     "lodash": "^4.17.15",
     "svg.js": "^2.7.1",
     "table": "^5.4.6",
-    "three": "^0.110.0"
+    "three": "^0.125.0"
   },
   "devDependencies": {
     "eslint": "^6.3.0",
